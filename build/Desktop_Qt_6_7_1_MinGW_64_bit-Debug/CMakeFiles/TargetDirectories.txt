@@ -1,0 +1,9 @@
+C:/Users/Kacper/Desktop/Studia/Semestr4/C++/Projekt/ProjektCpp/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/ProjektCpp.dir
+C:/Users/Kacper/Desktop/Studia/Semestr4/C++/Projekt/ProjektCpp/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Kacper/Desktop/Studia/Semestr4/C++/Projekt/ProjektCpp/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Kacper/Desktop/Studia/Semestr4/C++/Projekt/ProjektCpp/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Kacper/Desktop/Studia/Semestr4/C++/Projekt/ProjektCpp/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/Kacper/Desktop/Studia/Semestr4/C++/Projekt/ProjektCpp/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/Kacper/Desktop/Studia/Semestr4/C++/Projekt/ProjektCpp/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/Kacper/Desktop/Studia/Semestr4/C++/Projekt/ProjektCpp/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/ProjektCpp_autogen_timestamp_deps.dir
+C:/Users/Kacper/Desktop/Studia/Semestr4/C++/Projekt/ProjektCpp/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/ProjektCpp_autogen.dir
